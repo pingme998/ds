@@ -1,0 +1,8 @@
+curl 'https://booyah.live/api/v3/chatrooms/87188835/audiences/count?channel_id=87527278' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://booyah.live/channels/87527278?source=8' \
+  -H 'X-CSRF-Token: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'Booyah-Session-Key: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'X-Request-ID: web_0e556490-1496-11ec-ad8f-3bd26e0ac16c' \
+  --compressed
