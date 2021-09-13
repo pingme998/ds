@@ -1,0 +1,178 @@
+curl 'https://booyah.live/api/v3/channels/87527278/streams' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://booyah.live/channels/87527278?source=8' \
+  -H 'X-CSRF-Token: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'Booyah-Session-Key: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'X-Request-ID: web_ac0350a0-148f-11ec-afb7-619c3ed29170' \
+  --compressed ;
+curl 'https://booyah.live/api/v3/channels/87527278/streams' \
+  -H 'authority: booyah.live' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'x-csrf-token: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'booyah-session-key: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'x-request-id: web_ac0350a0-148f-11ec-afb7-619c3ed29170' \
+  -H 'sec-gpc: 1' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://booyah.live/channels/87527278?source=8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: apple_state_key=b7aba134148811ecb75076d1fb6c6ed1; session_key=MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5; muxData=mux_viewer_id=d55a8cc8-780a-44e5-bd2b-3939b0f5d2ac&msn=0.42061388514252873&sid=c2bc1229-bcb0-4860-a63c-4cc58678ce93&sst=1631536754326.6&sex=1631538282709.7' \
+  --compressed ;
+curl 'https://akamai2-in.cdn.booyah.live/hls/100103/87527278.m3u8' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'Accept: */*' \
+  -H 'Sec-GPC: 1' \
+  -H 'Origin: https://booyah.live' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://booyah.live/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://akamai2-in.cdn.booyah.live/hls/100103/87527278.m3u8' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'Accept: */*' \
+  -H 'Sec-GPC: 1' \
+  -H 'Origin: https://booyah.live' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://booyah.live/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://booyah.live/api/v3/reports/client-events' \
+  -H 'authority: booyah.live' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'x-csrf-token: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'booyah-session-key: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'x-request-id: web_af61e4f0-148f-11ec-afb7-619c3ed29170' \
+  -H 'content-type: application/json' \
+  -H 'sec-gpc: 1' \
+  -H 'origin: https://booyah.live' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://booyah.live/channels/87527278?source=8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: apple_state_key=b7aba134148811ecb75076d1fb6c6ed1; session_key=MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5; muxData=mux_viewer_id=d55a8cc8-780a-44e5-bd2b-3939b0f5d2ac&msn=0.42061388514252873&sid=c2bc1229-bcb0-4860-a63c-4cc58678ce93&sst=1631536754326.6&sex=1631538286726.4' \
+  --data-raw '{"client_version":"web","device_id":"da1b6960-0f07-11ec-9033-27546ba82e72","events":[{"type":"report_active_session","data":{"duration":10},"ts":1631536788,"session_id":"974086b0-148f-11ec-afb7-619c3ed29170","active_usage_id":"974086b1-148f-11ec-afb7-619c3ed29170"}],"language":"en","platform":7,"uid":34884818,"content_language":"en"}' \
+  --compressed ;
+curl 'https://booyah.live/api/v3/reports/client-heartbeats' \
+  -H 'authority: booyah.live' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'x-csrf-token: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'booyah-session-key: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'x-request-id: web_af625a20-148f-11ec-afb7-619c3ed29170' \
+  -H 'content-type: application/json' \
+  -H 'sec-gpc: 1' \
+  -H 'origin: https://booyah.live' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://booyah.live/channels/87527278?source=8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: apple_state_key=b7aba134148811ecb75076d1fb6c6ed1; session_key=MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5; muxData=mux_viewer_id=d55a8cc8-780a-44e5-bd2b-3939b0f5d2ac&msn=0.42061388514252873&sid=c2bc1229-bcb0-4860-a63c-4cc58678ce93&sst=1631536754326.6&sex=1631538286726.4' \
+  --data-raw '{}' \
+  --compressed ;
+curl 'https://booyah.live/api/v3/chatrooms/87188835/audiences/count?channel_id=87527278' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Referer: https://booyah.live/channels/87527278?source=8' \
+  -H 'X-CSRF-Token: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'Booyah-Session-Key: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'X-Request-ID: web_b0c608d0-148f-11ec-afb7-619c3ed29170' \
+  --compressed ;
+curl 'https://booyah.live/api/v3/chatrooms/87188835/audiences/count?channel_id=87527278' \
+  -H 'authority: booyah.live' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'x-csrf-token: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'booyah-session-key: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'x-request-id: web_b0c608d0-148f-11ec-afb7-619c3ed29170' \
+  -H 'sec-gpc: 1' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://booyah.live/channels/87527278?source=8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: apple_state_key=b7aba134148811ecb75076d1fb6c6ed1; session_key=MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5; muxData=mux_viewer_id=d55a8cc8-780a-44e5-bd2b-3939b0f5d2ac&msn=0.42061388514252873&sid=c2bc1229-bcb0-4860-a63c-4cc58678ce93&sst=1631536754326.6&sex=1631538290746.4' \
+  --compressed ;
+curl 'https://akamai2-in.cdn.booyah.live/hls/100103/87527278.m3u8' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'Accept: */*' \
+  -H 'Sec-GPC: 1' \
+  -H 'Origin: https://booyah.live' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://booyah.live/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://akamai2-in.cdn.booyah.live/hls/100103/87527278.m3u8' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'Accept: */*' \
+  -H 'Sec-GPC: 1' \
+  -H 'Origin: https://booyah.live' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://booyah.live/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --compressed ;
+curl 'https://booyah.live/api/v3/reports/client-events' \
+  -H 'authority: booyah.live' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'x-csrf-token: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'booyah-session-key: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'x-request-id: web_b557ed00-148f-11ec-afb7-619c3ed29170' \
+  -H 'content-type: application/json' \
+  -H 'sec-gpc: 1' \
+  -H 'origin: https://booyah.live' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://booyah.live/channels/87527278?source=8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: apple_state_key=b7aba134148811ecb75076d1fb6c6ed1; session_key=MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5; muxData=mux_viewer_id=d55a8cc8-780a-44e5-bd2b-3939b0f5d2ac&msn=0.42061388514252873&sid=c2bc1229-bcb0-4860-a63c-4cc58678ce93&sst=1631536754326.6&sex=1631538298788.2' \
+  --data-raw '{"client_version":"web","device_id":"da1b6960-0f07-11ec-9033-27546ba82e72","events":[{"type":"report_active_session","data":{"duration":10},"ts":1631536798,"session_id":"974086b0-148f-11ec-afb7-619c3ed29170","active_usage_id":"974086b1-148f-11ec-afb7-619c3ed29170"}],"language":"en","platform":7,"uid":34884818,"content_language":"en"}' \
+  --compressed ;
+curl 'https://booyah.live/api/v3/reports/client-heartbeats' \
+  -H 'authority: booyah.live' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'x-csrf-token: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'booyah-session-key: MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'x-request-id: web_b5586230-148f-11ec-afb7-619c3ed29170' \
+  -H 'content-type: application/json' \
+  -H 'sec-gpc: 1' \
+  -H 'origin: https://booyah.live' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://booyah.live/channels/87527278?source=8' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: apple_state_key=b7aba134148811ecb75076d1fb6c6ed1; session_key=MTYzMTUzMzc5OHxOd3dBTkV4VU4xTkNTbHBSU0RWTVVUVllWMGxWVlVaUlNqWkNVVFJXVlZsQlRUWkZSME5RVDFOUFRrbERSMHhEVUU4elVWUllVMUU9fDHrsssQUqr4PQP7hH_QFHl-PNw53kinvgLK8DZ2oTF5; muxData=mux_viewer_id=d55a8cc8-780a-44e5-bd2b-3939b0f5d2ac&msn=0.42061388514252873&sid=c2bc1229-bcb0-4860-a63c-4cc58678ce93&sst=1631536754326.6&sex=1631538298788.2' \
+  --data-raw '{}' \
+  --compressed ;
+curl 'https://akamai2-in.cdn.booyah.live/hls/100103/87527278.m3u8' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36' \
+  -H 'Accept: */*' \
+  -H 'Sec-GPC: 1' \
+  -H 'Origin: https://booyah.live' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://booyah.live/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --compressed
